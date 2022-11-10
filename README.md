@@ -10,6 +10,7 @@
 - 🤔 *I also have a massive interest on Cyber Security (besides my background in Design)*
 - ⚡ **Funfact** *Aparently I'm a skilled fiction writer*
 
+</br>
 <!--
 **aurahtml/aurahtml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
