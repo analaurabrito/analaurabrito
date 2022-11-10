@@ -8,6 +8,7 @@
 - 🌱 *I’m currently learning the following: HTML+CSS+JavaScript and SQL* 
 - 💬 *I’m currently working on various projects from my course*
 - 🤔 *I also have a massive interest on Cyber Security (besides my background in Design)*
+- ⚡ **Funfact** *Aparently I'm a skilled fiction writer*
 
 <!--
 **aurahtml/aurahtml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
