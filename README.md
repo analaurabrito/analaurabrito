@@ -5,12 +5,13 @@
 
 ****
 
-<p>Hi! I'm a Computer Science student on my forth semester at the University of Vila Velha (UVV), a brazilian institution. I also have a degree in Fashion Design. Besides these basics, also a bit more information about me:</p></br>
+<p>Hi! I'm a Computer Science student on my fourth semester at the University of Vila Velha (UVV), a brazilian institution. I also have a degree in Fashion Design. Besides these basics, also a bit more information about me:</p></br>
 
-- 🌱 *I’m currently learning the following: HTML+CSS+JavaScript and SQL* 
-- 💬 *I’m currently working on various projects from my course*
-- 🤔 *I also have a massive interest on Software Engeneering*
-- ⚡ **Funfact** *Aparently I'm a skilled fiction writer*
+- 🌱 *I’m currently learning the following: C# and Operational Systems*
+- 💬 *I’m currently working on various projects from my course, including an inovation software for InovaWeek*
+- 🔭 *I’m currently enrolled on the Junior Enterprise from my University (EJUVV), developing an ERP software* 
+- 🤔 *I have a massive interest on Software Engeneering*
+- ⚡ *I have experience with C, SQL and Front-End + Mark-Up Languages (HTML, CSS, JavaScript, React)*
 
 ****
 
