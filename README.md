@@ -10,7 +10,7 @@
 - 🌱 *I’m currently learning the following: C# and Operational Systems*
 - 💬 *I’m currently working on various projects from my course, including an inovation software for InovaWeek*
 - 🔭 *I’m currently enrolled on the Junior Enterprise from my University (EJUVV), developing an ERP software* 
-- 🤔 *I have a massive interest on Software Engeneering*
+- 🤔 *I have an interest on Software Engineering and CyberSecurity*
 - ⚡ *I have experience with C, SQL and Front-End + Mark-Up Languages (HTML, CSS, JavaScript, React)*
 
 ****
