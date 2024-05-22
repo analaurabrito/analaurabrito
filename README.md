@@ -7,11 +7,11 @@
 
 <p>Hi! I'm a Computer Science student on my fourth semester at the University of Vila Velha (UVV), a brazilian institution. I also have a degree in Fashion Design. Besides these basics, also a bit more information about me:</p></br>
 
-- 🌱 *I’m currently learning the following: C# and Operating System Commands*
+- 🌱 *I’m currently learning the following: C#, .NET Framework and Operating System Commands*
 - 💬 *I’m currently working on various projects from my course, including a prototype software for InovaWeek*
 - 🔭 *I’m currently enrolled as an honorary member on my University's Junior Enterprise (EJUVV), for the development of an ERP software* 
 - 🤔 *I have an interest on Software Engineering and CyberSecurity*
-- ⚡ *I have experience with C, SQL and Front-End + Mark-Up Languages (HTML, CSS, JavaScript, React)*
+- ⚡ *I have experience with C, SQL and Front-End + Mark-Up Languages (such as HTML, CSS, JavaScript)*
 
 ****
 
