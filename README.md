@@ -12,7 +12,6 @@
 - 💻 Full Stack Developer at **Maxpar** — Grupo Autoglass
 - 🛠️ Building with **C#, ASP.NET Core, Angular, MySQL, Oracle**
 - 🎓 Finishing my **B.Sc. in Computer Science** — Universidade de Vila Velha *(8th semester)*
-- 🤝 Honorary member — **EJUVV** Junior Enterprise (ERP project w/ FAPES)
 
 <br>
 
@@ -23,6 +22,7 @@ Maxpar / Grupo Autoglass          Full Stack Developer
 InTech (Maxpar)                   Developer Training Program · 3 months
 Autoplay (Grupo Autoglass)        Developer Training Program · 6 months
 Banestes S/A                      Java Developer Intern · 1+ year
+EJUVV Junior Enterprise           Honorary member (ERP project w/ FAPES) · 6 months
 FAESA                             Fashion Design Intern
 ```
 
