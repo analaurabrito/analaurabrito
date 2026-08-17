@@ -1,34 +1,57 @@
+<div align="center">
 
-### It's Aura here! 👋
+# hi, I'm Ana Laura 👋
 
-###### she/her
+**Full Stack Developer** · Computer Science student · ex-Fashion Designer
 
-****
+</div>
 
-<p>Hi! I'm a Computer Science student on my fourth semester at the University of Vila Velha (UVV), a brazilian institution. I also have a degree in Fashion Design. Besides these basics, also a bit more information about me:</p></br>
+<br>
 
-- 🌱 *I’m currently learning the following: C#, .NET Framework and Operating System Commands*
-- 💬 *I’m currently working on various projects from my course, including a prototype software for InovaWeek*
-- 🔭 *I’m currently enrolled as an honorary member on my University's Junior Enterprise (EJUVV), for the development of an ERP software* 
-- 🤔 *I have an interest on Software Engineering and CyberSecurity*
-- ⚡ *I have experience with C, SQL and Front-End + Mark-Up Languages (such as HTML, CSS, JavaScript)*
+## ⟡ currently
 
-****
+- 💻 Full Stack Developer at **Maxpar** — Grupo Autoglass
+- 🛠️ Building with **C#, ASP.NET Core, Angular, MySQL, Oracle**
+- 🎓 Finishing my **B.Sc. in Computer Science** — Universidade de Vila Velha *(8th semester)*
+- 🤝 Honorary member — **EJUVV** Junior Enterprise (ERP project w/ FAPES)
 
-[![analaurabrito](https://github-readme-stats.vercel.app/api/top-langs/?username=analaurabrito&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 
+## ⟡ experience
 
-<!--
-**aurahtml/aurahtml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+Maxpar / Grupo Autoglass          Full Stack Developer
+InTech (Maxpar)                   Developer Training Program · 3 months
+Autoplay (Grupo Autoglass)        Developer Training Program · 6 months
+Banestes S/A                      Java Developer Intern · 1+ year
+FAESA                             Fashion Design Intern
+```
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⟡ stack
+
+<div align="center">
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+</div>
+
+<br>
+
+## ⟡ education
+
+- 🎓 **B.Sc. Computer Science** — Universidade de Vila Velha *(in progress)*
+- 🎨 **B.A. Fashion Design** — FAESA *(2022)*
+
+<br>
+
+<div align="center">
+<sub>design + code — same instinct, different medium</sub>
+</div>
