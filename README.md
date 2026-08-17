@@ -1,5 +1,10 @@
+<div align="center">
 # ANA LAURA
 ### full stack developer
+ 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff6fb3&height=3&width=300"/>
+</div>
+<br>
 
 ## ⟡ currently
 
