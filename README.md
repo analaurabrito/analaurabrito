@@ -1,11 +1,11 @@
 <div align="center">
-
-# hi, I'm Ana Laura 👋
-
-**Full Stack Developer** · Computer Science student · ex-Fashion Designer
-
+# ANA LAURA
+ 
+*full stack developer*
+ 
+━━━━━━━━━━━━━━━━━━━━
+ 
 </div>
-
 <br>
 
 ## ⟡ currently
