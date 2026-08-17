@@ -1,13 +1,13 @@
 <div align="center">
 
  
-### ana laura ⟡ *full stack developer*
+### ana laura ★ *full stack developer*
  
 <img src="https://capsule-render.vercel.app/api?type=rect&color=ff6fb3&height=3&width=50"/>
 </div>
 <br>
 
-### ⟡ currently
+### ★ currently
 
 - 💻 Full Stack Developer at **Maxpar** — Grupo Autoglass
 - 🛠️ Building with **C#, ASP.NET Core, Angular, MySQL, Oracle**
@@ -15,7 +15,7 @@
 
 <br>
 
-### ⟡ experience
+### ★ experience
 
 ```
 Maxpar / Grupo Autoglass          Full Stack Developer
@@ -28,7 +28,7 @@ FAESA                             Fashion Design Intern
 
 <br>
 
-### ⟡ stack
+### ★ stack
 
 <div align="center">
 
@@ -44,7 +44,7 @@ FAESA                             Fashion Design Intern
 
 <br>
 
-### ⟡ education
+### ★ education
 
 - 🎓 **B.Sc. Computer Science** — Universidade de Vila Velha *(in progress)*
 - 🎨 **B.A. Fashion Design** — FAESA *(2022)*
