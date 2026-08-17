@@ -4,7 +4,7 @@
 ### ANA LAURA
 *full stack developer*
  
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ff6fb3&height=3&width=150"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ff6fb3&height=3&width=50"/>
 </div>
 <br>
 
