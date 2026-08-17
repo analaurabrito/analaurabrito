@@ -1,5 +1,10 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:1a1a1a&height=140&section=header&text=ANA%20LAURA&fontSize=48&fontColor=ffffff&fontAlignY=55&desc=full%20stack%20developer&descAlignY=75&descSize=18&animation=fadeIn" width="100%"/>
+# ANA LAURA
+### full stack developer
+ 
+<br>
+`C#`  `.NET`  `Angular`  `Java`
+ 
 </div>
 <br>
 
