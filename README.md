@@ -23,7 +23,7 @@ InTech (Maxpar)                   Developer Training Program · 3 months
 Autoplay (Grupo Autoglass)        Developer Training Program · 6 months
 Banestes S/A                      Java Developer Intern · 1+ year
 EJUVV Junior Enterprise           Honorary member (ERP project w/ FAPES) · 6 months
-FAESA                             Fashion Design Intern
+Atelie J.V.                       Fashion Design Intern
 ```
 
 <br>
